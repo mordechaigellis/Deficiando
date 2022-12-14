@@ -7,7 +7,8 @@ namespace Definechiando
             // Initializes
             // Implementation
             InitializeComponent();
-        }
+        }        
     }
     // Documentation
+    // Details
 }
