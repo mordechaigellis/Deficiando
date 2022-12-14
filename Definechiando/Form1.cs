@@ -4,6 +4,7 @@ namespace Definechiando
     {
         public Form1()
         {
+            // Initializes
             InitializeComponent();
         }
     }
