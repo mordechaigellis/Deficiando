@@ -8,6 +8,5 @@ namespace Definechiando
             InitializeComponent();
         }        
     }
-    // Documentation
     // Details
 }
